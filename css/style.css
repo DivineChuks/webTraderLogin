@@ -93,8 +93,7 @@ footer {
   }
 
   .copy a {
-    font-size: 12px;
-    padding-top: 5 !important;
+   display: none;
   }
 
 
