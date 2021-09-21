@@ -13,6 +13,7 @@ nav {
   box-shadow: 2px 2px 8px grey;
 }
 
+
 footer a {
   text-decoration: none !important;
   color: #fff !important;
@@ -26,10 +27,11 @@ footer a {
   margin-bottom: 20px;
 }
 
-.fa-eye {
+img {
   position: absolute;
   top: 52%;
   right: 13%;
+  cursor: pointer;
 }
 
 section{
