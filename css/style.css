@@ -26,6 +26,12 @@ footer a {
   margin-bottom: 20px;
 }
 
+.fa-eye {
+  position: absolute;
+  top: 52%;
+  right: 13%;
+}
+
 section{
   min-height: 90vh;
 }
