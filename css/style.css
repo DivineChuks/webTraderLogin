@@ -29,7 +29,7 @@ nav {
 .eye {
   position: absolute;
   top: 52%;
-  right: 14%;
+  right: 11%;
   cursor: pointer;
 }
 
@@ -96,8 +96,14 @@ footer {
    display: none;
   }
 
+  .eye {
+  position: absolute;
+  top: 52%;
+  right: 14%;
+  cursor: pointer;
+}
 
-  .copy p {
+  .copy small {
     font-size: 12px;
   }
 }
